@@ -1,7 +1,7 @@
 # M120
 Benutzerschnittstellen implementieren
 
-Umgebung für die Integration von Multimedia auf einem Webserver. 
+Umgebung für die Erstellung von Benutzerschnittstellen über einen Webserver.
 Die Skripts sind abgestimmt auf die [lernmaas](https://github.com/mc-b/lernmaas) Umgebung.
 
 Verwendete Produkte
