@@ -2,7 +2,6 @@
 Benutzerschnittstellen implementieren
 
 Umgebung für die Erstellung von Benutzerschnittstellen über einen Webserver.
-Die Skripts sind abgestimmt auf die [lernmaas](https://github.com/mc-b/lernmaas) Umgebung.
 
 Verwendete Produkte
 -------------------
